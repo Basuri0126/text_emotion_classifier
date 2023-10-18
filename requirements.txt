@@ -2,3 +2,4 @@ Flask
 nltk
 numpy
 scikit-learn
+scipy.sparse._csr
