@@ -1,5 +1,5 @@
 Flask==2.2.5
 numpy
-nltk==3.8.1
+nltk==3.7
 scikit-learn
 spacy==3.7.1
