@@ -2,4 +2,3 @@ Flask==2.2.5
 numpy
 nltk==3.8.1
 scikit-learn
-spacy
